@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 303b94e733565394cb5e1d0538c7626f
+timeCreated: 1526696897
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: UmePlus P Gothic
+  fontNames:
+  - UmePlus P Gothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 263a351134296614381868980f653707, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

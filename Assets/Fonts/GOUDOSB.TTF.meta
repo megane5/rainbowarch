@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 7ff8a50796e4fbf4eab5ae013bb49e0e
+timeCreated: 1526697012
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Goudy Old Style
+  fontNames:
+  - Goudy Old Style
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 72e31588cf369bc4fab17ae2a7bb6e7a, type: 3}
+  - {fileID: 12800000, guid: 2e9123afda2799a40894da903142a766, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

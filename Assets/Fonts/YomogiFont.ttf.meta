@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 8d09a6b213324a944924b48e07f69cff
+timeCreated: 1526697018
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: YomogiFont
+  fontNames:
+  - YomogiFont
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6745a8970eaf120499aa2704e5e6ce83, type: 3}
+  - {fileID: 12800000, guid: 5d1ec2ed5609ff742b9dac295c2f4ab9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: bcf08efc48705ee4aaa3bbf39853a460
+timeCreated: 1526697037
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lucida Sans Typewriter
+  fontNames:
+  - Lucida Sans Typewriter
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 83126712b37c880499641157adf5abb7, type: 3}
+  - {fileID: 12800000, guid: 72de7834c679f1c45bff8164f3cb0639, type: 3}
+  - {fileID: 12800000, guid: 0f46aa4564c255e4f962b4aa1233c9d7, type: 3}
+  - {fileID: 12800000, guid: 5711cb65189c7c04bbc9801176857415, type: 3}
+  - {fileID: 12800000, guid: 318756d685c245d4590f2acdce4f2f0c, type: 3}
+  - {fileID: 12800000, guid: 8e0e00189521dea47bd53f334bf6f181, type: 3}
+  - {fileID: 12800000, guid: 6ce5be785abb84645b81f0728de52815, type: 3}
+  - {fileID: 12800000, guid: 75b793b9688d24645a5d3d8a57e14078, type: 3}
+  - {fileID: 12800000, guid: 076c74b9d432fff4397cf69a488bf6ff, type: 3}
+  - {fileID: 12800000, guid: a91196ca1e0118141b7fe1359f0ea27d, type: 3}
+  - {fileID: 12800000, guid: 2c01473c4e5e78a45ae457d239813a8a, type: 3}
+  - {fileID: 12800000, guid: 170f2c4cea55d094bb973870f315fa9a, type: 3}
+  - {fileID: 12800000, guid: 1bf5fb8df30671448b3fa4e5e2c72783, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

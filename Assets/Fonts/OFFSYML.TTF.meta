@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: fcb8bb7c975702743ba373f2a1e441af
+timeCreated: 1526697827
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MS Office Symbol
+  fontNames:
+  - MS Office Symbol
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8d5b9b52935718846b0ac4fc923ab354, type: 3}
+  - {fileID: 12800000, guid: 1864263577e32614f8fa4c187cad9b2d, type: 3}
+  - {fileID: 12800000, guid: bce2f67b704262749a108e5a3b7bdd75, type: 3}
+  - {fileID: 12800000, guid: 173cad3c4eeafd24c8110ef73ee9c8fa, type: 3}
+  - {fileID: 12800000, guid: 89775fec6310fe048bb86111c9490ba4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 53f3a7f300c66814286efe48df2187db
+timeCreated: 1526696975
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Yu Mincho
+  fontNames:
+  - Yu Mincho
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1afd8b9470127d546af3dc5100f07231, type: 3}
+  - {fileID: 12800000, guid: 0769aca6a68a5cd4bbc25e2a3bcf4cd5, type: 3}
+  - {fileID: 12800000, guid: 4387633eaf4f2b244a14d929349a0c26, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

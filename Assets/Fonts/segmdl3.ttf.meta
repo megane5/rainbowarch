@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 16d28168020fd574e8597efe53c51888
+timeCreated: 1526697858
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Segoe MDL2 Assets
+  fontNames:
+  - Segoe MDL2 Assets
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b4ee3a6637aff344788d2b91c4172529, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

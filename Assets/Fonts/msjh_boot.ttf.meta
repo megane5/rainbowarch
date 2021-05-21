@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: d458459eff48d8842b4e61963349433c
+timeCreated: 1526697372
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Microsoft JhengHei Boot
+  fontNames:
+  - Microsoft JhengHei Boot
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 74bcd11515ad3634d8436aa65530792d, type: 3}
+  - {fileID: 12800000, guid: 1d109bf5d23cbe642b01f3d62717e12d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

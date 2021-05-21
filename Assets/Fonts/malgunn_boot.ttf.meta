@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: fc66616e33f016c43a9b0ffa3ad51da1
+timeCreated: 1526697826
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Malgun Gothic Boot
+  fontNames:
+  - Malgun Gothic Boot
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 48d1cb92f71564a4ab9f3ecacc54bbb2, type: 3}
+  - {fileID: 12800000, guid: 63ced6ab35229224191d603efd0e2f34, type: 3}
+  - {fileID: 12800000, guid: 2c83071c930157548ac6f22c94b12e08, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

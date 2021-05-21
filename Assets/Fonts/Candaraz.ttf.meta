@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 7cdb8f2b004e2ca4c99456fee4550066
+timeCreated: 1526697011
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Candara
+  fontNames:
+  - Candara
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7c0dcc20b35a48b47b622048e80bdcdd, type: 3}
+  - {fileID: 12800000, guid: 1b3ba7c6eae76d84ba48ce232f159751, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

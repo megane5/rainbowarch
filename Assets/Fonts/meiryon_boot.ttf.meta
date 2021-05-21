@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 128eb444d2d658a47870da2eb292e4de
+timeCreated: 1526696795
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Meiryo Boot
+  fontNames:
+  - Meiryo Boot
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 01249cb50c816ea47affe60876d69d63, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

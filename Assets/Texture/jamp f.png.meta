@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 65359fb30f2e4e149a0e7fb78ad4d0b8
+timeCreated: 1525844068
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jamp f_0
+    21300002: jamp f_1
+    21300004: jamp f_2
+    21300006: jamp f_3
+    21300008: jamp f_4
+    21300010: jamp f_5
+    21300012: jamp f_6
+    21300014: jamp f_7
+    21300016: jamp f_8
+    21300018: jamp f_9
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jamp f_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jamp f_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jamp f_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jamp f_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jamp f_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jamp f_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jamp f_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jamp f_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jamp f_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jamp f_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape:
+    - - {x: -99, y: -16}
+      - {x: -97, y: -13}
+      - {x: -96, y: -8}
+      - {x: -95, y: -10}
+      - {x: -86, y: -16}
+      - {x: -67, y: -16}
+      - {x: -61, y: -12}
+      - {x: -55, y: -16}
+      - {x: -36, y: -16}
+      - {x: -33, y: -13}
+      - {x: -29, y: -11}
+      - {x: -21, y: -16}
+      - {x: -1, y: -16}
+      - {x: 1, y: -15}
+      - {x: 0, y: -7}
+      - {x: 2, y: -12}
+      - {x: 10, y: -16}
+      - {x: 29, y: -16}
+      - {x: 31, y: -13}
+      - {x: 32, y: -8}
+      - {x: 32, y: -3}
+      - {x: 39, y: -14}
+      - {x: 43, y: -16}
+      - {x: 60, y: -16}
+      - {x: 63, y: -13}
+      - {x: 64, y: -8}
+      - {x: 75, y: -16}
+      - {x: 93, y: -16}
+      - {x: 95, y: -12}
+      - {x: 96, y: -7}
+      - {x: 97, y: -10}
+      - {x: 100, y: -13}
+      - {x: 107, y: -16}
+      - {x: 124, y: -16}
+      - {x: 128, y: -14}
+      - {x: 128, y: -8}
+      - {x: 132, y: -11}
+      - {x: 139, y: -16}
+      - {x: 158, y: -16}
+      - {x: 159, y: -15}
+      - {x: 160, y: -9}
+      - {x: 160, y: 4}
+      - {x: 159, y: 12}
+      - {x: 153, y: 16}
+      - {x: 133, y: 16}
+      - {x: 129, y: 13}
+      - {x: 118, y: 16}
+      - {x: 104, y: 16}
+      - {x: 96, y: 11}
+      - {x: 89, y: 16}
+      - {x: 36, y: 16}
+      - {x: 32, y: 14}
+      - {x: 26, y: 16}
+      - {x: -24, y: 16}
+      - {x: -31, y: 10}
+      - {x: -33, y: 12}
+      - {x: -39, y: 16}
+      - {x: -56, y: 16}
+      - {x: -65, y: 11}
+      - {x: -71, y: 16}
+      - {x: -91, y: 16}
+      - {x: -95, y: 12}
+      - {x: -104, y: 16}
+      - {x: -122, y: 16}
+      - {x: -127, y: 11}
+      - {x: -134, y: 16}
+      - {x: -156, y: 16}
+      - {x: -160, y: 12}
+      - {x: -160, y: -12}
+      - {x: -155, y: -16}
+      - {x: -129, y: -16}
+      - {x: -127, y: -15}
+      - {x: -124, y: -13}
+      - {x: -118, y: -16}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

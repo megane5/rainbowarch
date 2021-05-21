@@ -1,0 +1,43 @@
+fileFormatVersion: 2
+guid: da1d850196244b541a51f171859dd699
+timeCreated: 1526697374
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lucida Bright
+  fontNames:
+  - Lucida Bright
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 99175151792dc4148a5c8e118f732298, type: 3}
+  - {fileID: 12800000, guid: ad6d3d51b96c1c64b852226038e261e2, type: 3}
+  - {fileID: 12800000, guid: 8c0213f14b97c7d40bf1c20ef0ea983d, type: 3}
+  - {fileID: 12800000, guid: 809e7062affa7ff42a0d63d9ce46f8f6, type: 3}
+  - {fileID: 12800000, guid: 102e42149a8912f4b9f184797ae77ac3, type: 3}
+  - {fileID: 12800000, guid: 17313805383f1644695eb5fb26a973cc, type: 3}
+  - {fileID: 12800000, guid: 5a30b045eada19840ab0d38840bcf1c9, type: 3}
+  - {fileID: 12800000, guid: 10537b2637dd0344a9bec34cd0c1053f, type: 3}
+  - {fileID: 12800000, guid: 2d58dd26d7fa1b04c9af7abf68c80f98, type: 3}
+  - {fileID: 12800000, guid: 781df236d996cbe408e7b3530f4e15d3, type: 3}
+  - {fileID: 12800000, guid: 10f8a5a71a8d3e944905d4886dcea09a, type: 3}
+  - {fileID: 12800000, guid: 08f0b859656237046b56221f71f883d5, type: 3}
+  - {fileID: 12800000, guid: 2c6cf6893fd7a564b8662027629865b5, type: 3}
+  - {fileID: 12800000, guid: 9f0c2b7a894cef740b7f927ff318d107, type: 3}
+  - {fileID: 12800000, guid: 0cb2210b94545f8498d6266e99f6e8a2, type: 3}
+  - {fileID: 12800000, guid: a0aeb72b2cc5a834c8be9edf8708bcc7, type: 3}
+  - {fileID: 12800000, guid: 01e2c04b154f64e4dac75a4ea1c82a6a, type: 3}
+  - {fileID: 12800000, guid: 0c33687c06e78ad42befc753314f7359, type: 3}
+  - {fileID: 12800000, guid: 57b7bffd35e67af489a730a6962b3029, type: 3}
+  - {fileID: 12800000, guid: 632217fe2373d9145ab24cb08f3b79f2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

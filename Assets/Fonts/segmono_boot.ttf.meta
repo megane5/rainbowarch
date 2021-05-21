@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 07679f2fd74f5244d9050b8ddd940ba8
+timeCreated: 1526696791
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Segoe Mono Boot
+  fontNames:
+  - Segoe Mono Boot
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

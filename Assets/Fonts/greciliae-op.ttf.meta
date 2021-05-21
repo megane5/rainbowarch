@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f1f9a4a862764764ba0adfa31c6f6eec
+timeCreated: 1526697823
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: greciliae-op
+  fontNames:
+  - greciliae-op
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

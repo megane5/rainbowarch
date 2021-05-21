@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: d03d5d00946a21d449ba89fc1c961c5b
+timeCreated: 1526697372
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tahoma
+  fontNames:
+  - Tahoma
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 66b0e270f46849847bf6f0686baa37bd, type: 3}
+  - {fileID: 12800000, guid: 5957d43a1d65e824f9e51e926ec9077f, type: 3}
+  - {fileID: 12800000, guid: 9dedf93d2c0ab624cba12db58a1471e1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

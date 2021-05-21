@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: cc4bf879384f8ef4b84a77b01eee0344
+timeCreated: 1526697370
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Corbel
+  fontNames:
+  - Corbel
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 30970b80c0202384880c5b722d21d37f, type: 3}
+  - {fileID: 12800000, guid: ada23969e8076cd4a8fef36288640d69, type: 3}
+  - {fileID: 12800000, guid: 765237ac77d2bea45bc75329ccfc8a55, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

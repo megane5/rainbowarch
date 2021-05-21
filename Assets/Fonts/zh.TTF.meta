@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: f6e5bfc3d2cbeb74e8a4df85d65d0838
+timeCreated: 1526695330
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DFPYuanW7-GB
+  fontNames:
+  - DFPYuanW7-GB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b5531459b291d42419716712cd2149fa, type: 3}
+  - {fileID: 12800000, guid: cffab0fa1d7330b49b8d9da25c444e39, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

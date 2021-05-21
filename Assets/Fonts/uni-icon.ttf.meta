@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 9e2a14594d9b0b145995ff40eb966272
+timeCreated: 1526697026
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: uni-icon
+  fontNames:
+  - uni-icon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61e0b4118c8eaec47b2acc67a470929b, type: 3}
+  - {fileID: 12800000, guid: 637e9ee571c32a84e984a5d5ae561c32, type: 3}
+  - {fileID: 12800000, guid: 01cf3a2b8f62927469d65c68d0fd703b, type: 3}
+  - {fileID: 12800000, guid: 38eb4c8b2118a6d4aa41cd9b7a8f5ac9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

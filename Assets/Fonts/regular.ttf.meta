@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 9bb0298e2c18e77478a12f62a0eaf4ca
+timeCreated: 1526695101
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rounded-L M+ 1c
+  fontNames:
+  - Rounded-L M+ 1c
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0a9774e1f1ea29148bb7a9f0c9f299d0, type: 3}
+  - {fileID: 12800000, guid: 2df612cc5822aae489f9d992f9273a42, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

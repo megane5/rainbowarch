@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 4d2c2a30e116bd74e85ae5d840a7cfd2
+timeCreated: 1526696973
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lucida Sans
+  fontNames:
+  - Lucida Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0a67c2a77e1fc0e4bacf117009dbabb7, type: 3}
+  - {fileID: 12800000, guid: 2a8642a9aca5de540aeb6ef0ff4d4af9, type: 3}
+  - {fileID: 12800000, guid: 0f6dc70c055476742aa75988873040bd, type: 3}
+  - {fileID: 12800000, guid: 2c6e0e3cdf3c7b1409d1e8cce0f00f39, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
