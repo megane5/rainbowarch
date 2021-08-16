@@ -18,6 +18,7 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 df374c01140c2d578bf70cbd60073d1d UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.IconManage
 ad22c8b18e069aa04e2d818d258ea591 Assembly-CSharp.dll:.CursolMaanage
+06f9502ce0ec0a5129c9258eda7f6ac2 Assembly-CSharp.dll:.OrbManage
 a35dc9cca2faebc5f5f1aeb9e8e47bbe UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
 49cd62a578efc0a599b810a2b66cd49c UnityEngine.UI.dll:UnityEngine.UI.Button
@@ -122,6 +123,7 @@ acc057070cdcd5059154bbfa162052be Assembly-CSharp.dll:.Stage
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MovieManage
 74a139a254656e7e07aa8deeba1337c4 Assembly-CSharp.dll:.TorchManage
 5d1954c6a1d142535040f8e81c1d8d60 Assembly-CSharp.dll:.PlayerMove
+4543912e7763c253f792029a855d0383 Assembly-CSharp.dll:.ClearTextManage
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ClimbDicision
 b86fddfffc5d745b3d958b737cb710b3 Assembly-CSharp.dll:.IvyManage
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
@@ -159,5 +161,3 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 069814f3558460a442862973a321e9cd Assembly-CSharp.dll:.BackColorManage
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.FallDicision
-06f9502ce0ec0a5129c9258eda7f6ac2 Assembly-CSharp.dll:.OrbManage
-4543912e7763c253f792029a855d0383 Assembly-CSharp.dll:.ClearTextManage
